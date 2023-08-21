@@ -4,7 +4,7 @@
 
 • first Android app I made money on! 😎 (also my Bachelor Thesis in Computer Engineering & Information Theory from University of Belgrade)
 
-• written Java, as I was familiar with it from college
+• written in Java, as I was familiar with it from college
 
 • sold to EpicEscape Rooms: https://epicescape.rs/rooms/music/ - still running smoothly 2.5 years on 😃
 
