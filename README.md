@@ -2,11 +2,11 @@
 ## Android Music Player App with Jukebox UI
 
 
-• first Android app I made money on! 😎 (also my Bachelor Thesis in Computer Engineering & Information Theory from University of Belgrade)
+• first Android app I made money on! 🙂 (also my Bachelor Thesis in Computer Engineering & Information Theory from University of Belgrade)
 
 • written in Java, as I was familiar with it from college
 
-• sold to EpicEscape Rooms: https://epicescape.rs/rooms/music/ - still running smoothly 2.5 years on 😃
+• sold to EpicEscape Rooms: https://epicescape.rs/rooms/music/ - still running smoothly 2.5 years on 😎
 
 • due to privacy issues, I won't be sharing any code here, just demo
 
