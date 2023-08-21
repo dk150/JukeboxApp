@@ -10,7 +10,7 @@
 
 • due to privacy issues, I won't be sharing full code here, just demo
 
-• quite proud of it (did whole project on my own - design, coding, etc), but even more of how far I've come 💪 - if I were to re-open the project, I would refactor everything for sure at this point 🙈
+• quite proud of it (did whole project on my own - coding, design, etc), but even more of how far I've come 💪 - if I were to re-open the project, I would refactor everything for sure at this point 🙈
 
 • demo: TBD
 
