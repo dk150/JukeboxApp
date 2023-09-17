@@ -8,7 +8,7 @@
 
 • sold to EpicEscape Rooms: https://epicescape.rs/rooms/music/ - still running smoothly 2.5 years on 😎
 
-• due to privacy issues, I won't be sharing full code here, just demo
+• due to the privacy issues, as the app has been sold & is still in active use, I won't be sharing full code here, just demo
 
 • quite proud of it (did whole project on my own - coding, design, etc), but even more of how far I've come 💪 - if I were to re-open the project, I would refactor everything for sure at this point 🙈
 
